@@ -1,2 +1,2 @@
-# xChaCha20
-PHP xChaCha20 Libsodium 
+# xChaCha20 Demo
+PHP xChaCha20 using Libsodium Implementation
